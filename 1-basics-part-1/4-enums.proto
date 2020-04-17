@@ -1,5 +1,5 @@
 // The syntax for this file is proto3
-syntax = "proto3"
+syntax = "proto3";
 
 // Person is used to indentify users
 // across our system.
