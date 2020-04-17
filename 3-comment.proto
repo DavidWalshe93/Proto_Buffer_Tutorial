@@ -10,9 +10,12 @@ message Person {
     string first_name = 2;
     // The last name as documented in the signup form.
     string last_name = 3;
-    
+
+    // small_picture represents a small .jpg file.
     bytes small_picture = 4;
     bool is_profile_verified = 5;
+
+    // Height of the person in centimeters. 
     float height = 6;
 
     // Declare an array.
