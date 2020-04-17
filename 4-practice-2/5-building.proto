@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "4-practice-2/3-street.proto";
+import "4-practice-2/4-street.proto";
 
 package building;
 

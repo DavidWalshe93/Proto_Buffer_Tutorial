@@ -16,6 +16,6 @@ message Building {
 
   };
 
-  Street street = 3
+  Street street = 3;
 
 };

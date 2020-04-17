@@ -5,5 +5,5 @@ package city;
 message City {
     string name = 1;
     string zipcode = 2;
-    string country_name = 3
+    string country_name = 3;
 };
