@@ -1,0 +1,1 @@
+proto -I=proto --python_out=python proto/*.proto
